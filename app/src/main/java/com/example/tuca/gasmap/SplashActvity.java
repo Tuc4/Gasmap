@@ -14,7 +14,7 @@ public class SplashActvity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Intent intent = new Intent(this, TelaPrincipal.class);
+        Intent intent = new Intent(this, telaPrincipal.class);
         startActivity(intent);
         finish();
 

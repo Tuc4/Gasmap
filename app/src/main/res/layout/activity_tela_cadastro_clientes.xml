@@ -159,5 +159,13 @@
                 tools:layout_editor_absoluteY="448dp" />
         </LinearLayout>
 
+        <Button
+            android:id="@+id/btnSalvar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:onClick="telaMapa"
+            android:text="salvar" />
+
     </LinearLayout>
 </ScrollView>
