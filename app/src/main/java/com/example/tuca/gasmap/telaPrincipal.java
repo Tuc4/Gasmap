@@ -19,4 +19,12 @@ public class telaPrincipal extends AppCompatActivity {
         startActivity(it);
 
     }
+
+    public void menuOpcoes(View view)
+    {
+        Intent it = new Intent(this, telaOpcoes.class);
+        startActivity(it);
+
+    }
+
 }
