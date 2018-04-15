@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Gas map</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_tela_mapa">Map</string>
+    <string name="titulo">GasMap</string>
+    <string name="sobre">Acerca de</string>
+    <string name="salvar">Guardar</string>
+    <string name="criarconta">Criar cuenta</string>
+    <string name="nome">Nombre</string>
+    <string name="senha">contraseña</string>
+
+    <string name="confsenha">Confirmar contraseña</string>
+    <string name="datnascimento">Fecha de nacimiento</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Femenino</string>
+
+    <string name="descCombustivel">Conozca la mejor opción para abastecer su automóvil</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+
+    <string name="linguagem">Idioma</string>
+    <string name="pt">Portugués</string>
+    <string name="en">Inglés</string>
+    <string name="es">Español</string>
+
+    <string name="Distancia">Distancia</string>
+    <string name="Tempo">Tiempo</string>
+
+    <string name="Carro">Coche</string>
+    <string name="Mapa">Map</string>
+    <string name="Comb">Combustible</string>
+    <string name="Perfil">Perfil</string>
+    <string name="Conf">Ajustes</string>
+
+    <string name="descSobre1">Versión 1.0</string>
+    <string name="descSobre2">App desarrollada para la disciplina de Nuevas Tecnologías de la Información.</string>
+    <string name="descSobre3">Desarrollado by Bruno dos Santos and Joao Tahara</string>
+    <string name="descSobre4">Política de privacidad</string>
+    <string name="descSobre5">Reportar un problema</string>
+</resources>

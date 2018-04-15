@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="64dp"
-        android:text="Nome"
+        android:text="@string/nome"
         android:textSize="24sp" />
 
     <android.support.design.widget.TextInputLayout
@@ -31,7 +31,7 @@
         android:id="@+id/txtSenha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Senha"
+        android:text="@string/senha"
         android:textSize="24sp" />
 
     <android.support.design.widget.TextInputLayout

@@ -13,7 +13,6 @@ public class telaOpcoes extends AppCompatActivity  {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tela_opcoes);
-        btnMapa = findViewById(R.id.btnMapa);
     }
 
 
@@ -37,6 +36,14 @@ public class telaOpcoes extends AppCompatActivity  {
     public void Combustivel(View view)
     {
         Intent it = new Intent(this, telaCombustivel.class);
+        startActivity(it);
+
+    }
+
+    //Chama a tela Configuracoes
+    public void Configuracoes(View view)
+    {
+        Intent it = new Intent(this, telaConfiguracoes.class);
         startActivity(it);
 
     }

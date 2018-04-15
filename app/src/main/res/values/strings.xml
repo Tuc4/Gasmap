@@ -1,7 +1,44 @@
 <resources>
-    <string name="app_name">Gas map</string>
-    <string name="title_activity_splash_screen">SplashScreenActivity</string>
-    <string name="title_activity_tela_mapa">Map</string>
-    <string name="titulo">GasMap</string>
-    <string name="sobre">Sobre</string>
+<string name="app_name">Gas map</string>
+<string name="title_activity_splash_screen">SplashScreenActivity</string>
+<string name="title_activity_tela_mapa">Map</string>
+<string name="titulo">GasMap</string>
+
+
+<string name="criarconta">Criar conta</string>
+<string name="nome">Nome</string>
+<string name="email">Email</string>
+<string name="senha">Senha</string>
+<string name="confsenha">Confirmar Senha</string>
+<string name="datnascimento">Data de nascimento</string>
+<string name="sexo">Sexo</string>
+<string name="masculino">Masculino</string>
+<string name="feminino">Feminino</string>
+
+<string name="descCombustivel">Saiba a melhor opção para o abastecimento do seu carro</string>
+<string name="calcular">Calcular</string>
+<string name="resultado">Resultado</string>
+
+<string name="linguagem">Linguagem</string>
+<string name="pt">Português</string>
+<string name="en">Inglês</string>
+<string name="es">Espanhol</string>
+
+<string name="Distancia">Distância</string>
+<string name="Tempo">Tempo</string>
+
+<string name="Carro">Carro</string>
+<string name="Mapa">Mapa</string>
+<string name="Comb">Combustível</string>
+<string name="Perfil">Perfil</string>
+<string name="Conf">Configurações</string>
+<string name="sobre">Sobre</string>
+
+<string name="descSobre1">Versão 1.0</string>
+<string name="descSobre2">Aplicativo desenvolvido para a disciplina de Novas Tecnologias da Informação.</string>
+<string name="descSobre3">Desenvolvido por Bruno dos Santos e Joao Tahara</string>
+<string name="descSobre4">Política de privacidade</string>
+<string name="descSobre5">Reportar um problema</string>
+
+<string name="salvar">Salvar</string>
 </resources>

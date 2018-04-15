@@ -47,7 +47,8 @@
 
         <activity
             android:name=".telaMapa"
-            android:label="@string/title_activity_tela_mapa"></activity>
+            android:label="@string/title_activity_tela_mapa" />
+        <activity android:name=".telaConfiguracoes"></activity>
     </application>
 
 </manifest>
